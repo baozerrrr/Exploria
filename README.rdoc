@@ -1,0 +1,21 @@
+== README
+
+Exploria is a web application built using Ruby on Rails that allows users to explore and find the perfect place to stay while traveling. Inspired by Airbnb’s functionality, users are able to:
+
+Sign up using their Facebook or Google accounts
+
+Create and edit their profiles
+
+Create listings to rent our their homes
+
+Reserve homes for future trips
+
+Message other users for any inquiries
+
+Track the history of their reservations 
+
+
+
+
+
+
